@@ -1,0 +1,56 @@
+.heading{
+    color:rgb(244, 94, 18);
+    text-align:center;
+}
+.text{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+.text1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color:rgb(168, 244, 18)
+}
+.normal{
+    font-weight: normal;
+    text-align: center;
+    color:rgb(18, 222, 244)
+}
+.bold{
+    font-weight: bold;
+    text-align: center;
+    color:rgb(244, 18, 222
+    )
+}
+.bolder{
+    font-weight: bolder;
+    text-align: center;
+    color:rgb(244, 18, 222
+    )
+}
+.dotted{
+    text-decoration: underline dotted red;
+}
+.weavy{
+    text-decoration: green underline wavy;
+}
+.overline{
+    text-decoration: green underline overline;
+}
+.text_decoration{
+    text-align:center;
+    background-color:rgb(244, 104, 18);
+    box-shadow:10px 10px rgb(143, 112, 112);
+
+}
+.div{
+    text-align: center;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(194, 225, 132);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
